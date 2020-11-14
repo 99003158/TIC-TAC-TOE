@@ -13,4 +13,4 @@ jobs:
     - name: make test
       run: |
         make test -C TicTacToe_C/3_Implementation/
-        valgrind ./TicTacToe_C/3_Implementation/build/Test_TicTacToe.out
+        valgrind ./TicTactoe_C/3_Implementation/build/Test_TicTacToe.out
