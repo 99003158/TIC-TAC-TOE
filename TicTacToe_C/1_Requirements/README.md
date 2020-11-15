@@ -2,8 +2,8 @@
 
 ## 1 Software requirements
 
-a) Code Blocks IDE/Visual Studio editor.\
-b) MinGW compiler.\
+a) Code Blocks IDE/Visual Studio editor.
+b) MinGW compiler.
 c) Microsoft word.
 
 ## 2 Hardware requirements
