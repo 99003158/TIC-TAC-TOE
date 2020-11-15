@@ -4,7 +4,7 @@
 
 a) Code Blocks IDE/Visual Studio editor.\
 b) MinGW compiler.\
-c) Microsoft word.\
+c) Microsoft word.
 
 ## 2 Hardware requirements
 
