@@ -1,4 +1,4 @@
-# Tic_Tac_Toe
+# Tic Tac Toe Game
 A simple human vs human Tic Tac Toe game developed in C language
 
 |Build|Unit Test|cppcheck|Valgrind|Codacy|
