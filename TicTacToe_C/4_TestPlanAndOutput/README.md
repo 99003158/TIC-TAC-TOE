@@ -1,6 +1,7 @@
 # TEST PLAN
 
 **Features to be tested**\
+
 Display Tic Tac Toe game board.\
 Take input from the user asking to make a move.\
 Check if the move made by the player is valid or not.\
