@@ -22,9 +22,9 @@ int main()
 		    /* If the user enters 1, Start the game */
       case 1:
      		 printf("\nWhats the name of 1st Player?\n");
-      		 scanf("%s",name[0]);
+      		 scanf("%4s",name[0]);
       		 printf("\nWhats the name of 2nd player?\n");
-      		 scanf("%s",name[1]);
+      		 scanf("%4s",name[1]);
       		 printf("\n\nAwesome! Welcome to the game %s and %s \n",name[0],name[1]);
      		 printf("\nBest of Luck %s and %s!!\n",name[0],name[1]);
       		 printf("\n\t%s will be Player 1 with 'X' mark\n",name[0]);
